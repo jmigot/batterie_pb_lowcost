@@ -1,1 +1,1 @@
-# batterie_pb_lowcost
+# Logiciel de supervision de batteries
