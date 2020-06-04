@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="about">images/about.png</file>
+        <file alias="dateTime">images/dateTime.png</file>
+        <file alias="delete">images/delete.png</file>
+        <file alias="help">images/help.png</file>
+        <file alias="open">images/open.png</file>
+        <file alias="pdf">images/pdf.png</file>
+        <file alias="printer">images/printer.png</file>
+        <file alias="quit">images/quit.png</file>
+        <file alias="read">images/read.png</file>
+        <file alias="steps">images/steps.png</file>
+        <file alias="apply">images/apply.png</file>
+        <file alias="cross">images/cross.png</file>
+        <file alias="export">images/export.png</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file alias="qt_fr">lang/qt_fr.qm</file>
+    </qresource>
+</RCC>

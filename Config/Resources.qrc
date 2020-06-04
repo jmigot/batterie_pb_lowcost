@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="apply_blue">images/apply_blue.png</file>
+        <file alias="apply_green">images/apply_green.png</file>
+        <file alias="delete">images/delete.png</file>
+        <file alias="help">images/help.png</file>
+        <file alias="open">images/open.png</file>
+        <file alias="save">images/save.png</file>
+    </qresource>
+</RCC>
